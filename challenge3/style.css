@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.hero {
+  padding: 100px 0;
+  color: white;
+  background-color: #23424A;
+
+}
+
+.container {
+  width: 80%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.hero__content {
+  width: 60%;
+  padding: 5px 0;
+}
+
+.hero p {
+    margin-bottom: 3em;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #38CFD9;
+  color: black;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 100px;
+  padding: .75em 2em;
+}
+
+.btn:hover,
+.btn:focus {
+    opacity: .75;
+}
