@@ -1,7 +1,7 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-  
+
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
 
 .hero {
@@ -31,12 +31,12 @@ h1 {
 }
 
 .hero p {
-    margin-bottom: 3em;
+  margin-bottom: 3em;
 }
 
 .btn {
   display: inline-block;
-  background-color: #38CFD9;
+  background-color: #6E358C;
   color: black;
   font-weight: 900;
   text-transform: uppercase;
@@ -47,5 +47,5 @@ h1 {
 
 .btn:hover,
 .btn:focus {
-    opacity: .75;
+  opacity: .75;
 }
